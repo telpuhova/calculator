@@ -6,7 +6,7 @@ calculator website, 11/27/2017
 
 ## Description
 
-A calculator website, adding numbers, made as an assignment for a coding school
+A calculator website, adding numbers.
 
 ## Setup
 

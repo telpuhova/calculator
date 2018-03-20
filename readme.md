@@ -1,20 +1,22 @@
-# _Calculator_
+# Calculator
 
-#### _calculator website, 11/27/2017_
+calculator website, 11/27/2017
 
-#### By _**telpuhova**_
+**By Natalia Telpukhova**
 
 ## Description
 
-_A calculator website, adding numbers, made as an assignment for a coding school_
+A calculator website, adding numbers, made as an assignment for a coding school
 
 ## Setup
 
-* _clone repository_
-* _Open index.html in browser_
+* clone repository
+* open index.html in browser
 
 ## Technologies Used
 
-_HTML,CSS, JS_
+HTML, CSS, JS
 
-Copyright (c) 2017 **_telpuhova_**
+### License
+
+Copyright (c) 2017 Natalia Telpukhova
